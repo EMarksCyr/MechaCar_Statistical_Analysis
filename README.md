@@ -44,7 +44,7 @@ For the coils tested in lot 3, the measured mean did significantly differ from t
 
 In the box plots below, you can see how the PSI of lot 3 differs from that of lots 1 and 2 in both mean and spread. 
 
-![suspension coil boxplots](output/sus_coil_boxplots.PNG)
+![suspension coil boxplots](output/sus_coil_boxplots.png)
 
 ## Study Design: MechaCar vs Competition
 In order to quantify how MechaCar stands up against its competition, I believe it would be beneficial to compare the city and highway fuel efficiency (km/L) of the MechaCar vehicles against each vehicle's two major competitors. For example, should MechaCar release a budget-friendly sedan, the average km/L for a sample of this vehicle would be tested against samples of the two budget-friendly sedans that are closest to MechaCar's in specs and target market. 
